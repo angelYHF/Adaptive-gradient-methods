@@ -1,1 +1,9 @@
+This folder included: 
 
+(1) The results with the best architectures for four data (*_FINAL.xls);
+
+(2) MAF files for four data that calculated with the standard way;
+
+(3) The statistical significance test results for non-regularized and regularized ResNets on different data (S5-S8); '
+
+(4) Ablation study and informativenness analysis for the models with dual-factors (S5). The method, results and the analysis/findings have been included as well. Because of the limitation of word, it was not included in the main manuscript. 
